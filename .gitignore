@@ -1,0 +1,4 @@
+.log
+.env
+*.retry
+.vault_passid_*
